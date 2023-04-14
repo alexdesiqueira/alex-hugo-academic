@@ -54,7 +54,7 @@ sections:
           icon_pack: fab
         - name: Computer Vision
           icon: eye
-          icon_pack: fab
+          icon_pack: fas
   - block: experience
     content:
       title: Experience
